@@ -8,6 +8,7 @@ This will contain all the notebooks I have developed in ISYS5022 Introduction to
 * Payslip
 * Sale Price
 * Audio to Text
+* ATO Tax Calculation
 * ASX Daily returns
 * Text Summariser
 * Amazon Web Scraper
